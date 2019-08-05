@@ -94,7 +94,7 @@ pattern_mapping = [
     {
         'cmd': '朽咪',
         'type': search,
-        'function': unknown_schumi_behavior,
+        'function': unknown_schumi_behavior
     },
     {
         'cmd': choice_pattern,
