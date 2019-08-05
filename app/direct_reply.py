@@ -63,3 +63,6 @@ def gurulingpo():
  `･+｡*･+ ﾟ
     '''
     return s
+
+def unknown_schumi_behavior():
+    return '朽咪對於你想做的事情感到驚恐 他慌張的跑到電話旁邊準備打給警察局'
